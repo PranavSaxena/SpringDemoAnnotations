@@ -1,0 +1,5 @@
+RandomFortune1
+RandomFortune2
+RandomFortune3
+RandomFortune4
+RandomFortune5
